@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #565164;
+}
+
+
+@media (max-width: 1100px) {
+  .responsive-line {
+    flex-wrap: wrap;
+  }
+
+  .responsive-card {
+    flex-basis: calc(50% - 20px);
+    margin-bottom: 20px;
+  }
+}
+
+.parallax-card {
+  width: 100%;
+}
+
