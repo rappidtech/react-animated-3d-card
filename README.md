@@ -37,7 +37,20 @@ const MyComponent = () => (
 export default MyComponent;
 ```
 
-También puedes hacer un fork o clonar el repositorio y trabajar en él directamente
+3- Para simplemente ver este repositorio en funcionamiento
+```bash
+git clone https://github.com/rappidtech/react-animated-3d-card.git
+```
+4- Luego para instalar las dependencias
+```bash
+npm install
+```
+5- Para correr el codigo
+```bash
+npm start
+```
+
+También puedes hacer un fork del repositorio y clonarlo
 
 ### Contribuir
 Estamos abiertos a contribuciones! Si deseas contribuir al proyecto, por favor revisa nuestra guía de contribución para saber cómo puedes hacerlo. Agradecemos cualquier tipo de ayuda, ya sea añadiendo nuevas características, mejorando la documentación o reportando bugs.
