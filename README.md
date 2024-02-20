@@ -43,7 +43,7 @@ git clone https://github.com/rappidtech/react-animated-3d-card.git
 ```
 4- Luego para instalar las dependencias
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 5- Para correr el codigo
 ```bash
